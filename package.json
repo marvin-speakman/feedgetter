@@ -1,0 +1,14 @@
+{
+  "name": "jsongetter",
+  "version": "1.0.0",
+  "description": "get data for the touchscreen app",
+  "main": "getfeed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marvin Jay",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
